@@ -1,0 +1,3617 @@
+fileFormatVersion: 2
+guid: 9eceb6111825a5b4f9df54ec6098c687
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: m001
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2924
+        width: 73
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf42c041ce954c439af0699e880b309
+      internalID: -665971324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m003
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2926
+        width: 73
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247bbf41ee123a748aeb6a9a49f1b2a4
+      internalID: -1373716088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mw_f-001
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 2920
+        width: 95
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd4fec9778d4344ea1e0b7f6d81df6e
+      internalID: -744006204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mw_b-002
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 2925
+        width: 90
+        height: 161
+      alignment: 9
+      pivot: {x: 0.4622965, y: 0.504437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be05f7afb25af4740a03975705669e04
+      internalID: 1818421396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mw_b-004
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 2926
+        width: 97
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b018db8ecc89a74bac3bb19da200902
+      internalID: 2037851548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m000
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2924
+        width: 77
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af312d42918886b44a54f06e092048c6
+      internalID: 564885279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m002
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2924
+        width: 79
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52e4d9d91e65744c9bf83a35ccb61e3
+      internalID: -1458563325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m004
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2924
+        width: 73
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c119b1d5f1ab94cac52bd1c8768492
+      internalID: -1221689969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m005
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2924
+        width: 76
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7eb49bdd3a3a0a499866e811adb8874
+      internalID: 283489903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m006
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2924
+        width: 75
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08fa73e5dce52645a390fd1ed90ecfc
+      internalID: -1363576309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m007
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2924
+        width: 73
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02400abb06016024993470d43de48b7f
+      internalID: -1554628138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mw_f-003
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 2924
+        width: 75
+        height: 156
+      alignment: 9
+      pivot: {x: 0.3501847, y: 0.5306772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32c83298df439b4b8d3495f422a3c3f
+      internalID: -1631972953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mw_f-004
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 2926
+        width: 89
+        height: 157
+      alignment: 9
+      pivot: {x: 0.338682, y: 0.5331316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37517e54e8cfab44688b967058166d75
+      internalID: 30925346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mw_b-001
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2924
+        width: 101
+        height: 164
+      alignment: 9
+      pivot: {x: 0.4220297, y: 0.5176436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffbbfebe77942a45a2a8e9bab33ebd4
+      internalID: -805711691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mw_b-003
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2924
+        width: 82
+        height: 161
+      alignment: 9
+      pivot: {x: 0.4695077, y: 0.5011085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1afe0bf39b1c849ade306719b07062
+      internalID: -550801269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_25
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2718
+        width: 83
+        height: 164
+      alignment: 9
+      pivot: {x: 0.3350196, y: 0.5394302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fd4a220f852f7488e73d4e28e46249
+      internalID: 1881621594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2717
+        width: 79
+        height: 145
+      alignment: 9
+      pivot: {x: 0.3555553, y: 0.5655829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f557b57689675664e930b780e32853a1
+      internalID: 1235606179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_jp_001
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2717
+        width: 86
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7664dbf2696866a45a66cbec6c8f1d08
+      internalID: -490968646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_jp_002
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2717
+        width: 72
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705b086fe573f354096f92a38d5f977f
+      internalID: 452740549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_jp_004
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 2717
+        width: 85
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f50502f63d3cd045b33ccf62777761e
+      internalID: -801710720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_31
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 2717
+        width: 81
+        height: 106
+      alignment: 9
+      pivot: {x: 0.42522213, y: 0.4428596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bd02c30a165a440a98d44b364f46f6
+      internalID: -1849542405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2716
+        width: 87
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afadb361fef09d44a871928504ddaeb
+      internalID: -1210046355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2716
+        width: 83
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4175101, y: 0.44312435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8770f537c3ff97489ab8dd9298ce0df
+      internalID: -334097106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_35
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2716
+        width: 84
+        height: 107
+      alignment: 9
+      pivot: {x: 0.42302012, y: 0.4324597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7fc0c2caf38bf418620d7541de6a10
+      internalID: -814462996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_jp_003
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2716
+        width: 148
+        height: 100
+      alignment: 9
+      pivot: {x: 0.3612159, y: 0.4239282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb381e55f67c3a4994937e36938aa94
+      internalID: 1567706441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_a-002
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2507
+        width: 136
+        height: 160
+      alignment: 9
+      pivot: {x: 0.2843821, y: 0.4922775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f807a03edd2e1479ac96e32db8d2c9
+      internalID: 1810194005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_b-001
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2507
+        width: 93
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55162527f8e14a54b92bb874d5d19b5b
+      internalID: -1116849052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_b-002
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 2507
+        width: 98
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5461096, y: 0.4817294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b5d8c2245dd4f4692dd0deed324525
+      internalID: -768844347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_b-004
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 2507
+        width: 162
+        height: 150
+      alignment: 9
+      pivot: {x: 0.3886376, y: 0.5293685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9b087965c55c94f8e29978347c46f3
+      internalID: -809196944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_a-001
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2507
+        width: 91
+        height: 162
+      alignment: 9
+      pivot: {x: 0.3921353, y: 0.487377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67caeb89024ef4940b0d18f4bce9c403
+      internalID: 75429301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_a-003
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2507
+        width: 91
+        height: 160
+      alignment: 9
+      pivot: {x: 0.3942563, y: 0.4879715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d1590ae5b0d7b4e94328f9d84b246c
+      internalID: -2005897978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_b-003
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 2507
+        width: 124
+        height: 159
+      alignment: 9
+      pivot: {x: 0.4712406, y: 0.5092344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dbf45baba4b104584076b97d9719a1
+      internalID: 668517365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_b-005
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2507
+        width: 123
+        height: 153
+      alignment: 9
+      pivot: {x: 0.4641848, y: 0.5246789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4234ef7e049e304d8e14edf8b8beb48
+      internalID: 955901635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_b-006
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2507
+        width: 99
+        height: 159
+      alignment: 9
+      pivot: {x: 0.523308, y: 0.4762508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64355f25455027648b855977926273bf
+      internalID: 1242306955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_c-004
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 2507
+        width: 118
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5142222, y: 0.4853018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838f2855553e89e4bb3d691b3fd1ab37
+      internalID: 1075688985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_c-001
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 2507
+        width: 106
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5197904, y: 0.4656959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dc9203659b5154991a61c5e8793acb
+      internalID: -6257206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_c-002
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 2507
+        width: 98
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5963247, y: 0.4946211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61e4234d2eba3c48b93006544cdaf7e
+      internalID: -969348930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mp_c-003
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 2507
+        width: 146
+        height: 157
+      alignment: 9
+      pivot: {x: 0.4051698, y: 0.4706036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf5e670a3cafff478c5cbdff8bf1d21
+      internalID: 1623305377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mk_a-001
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2298
+        width: 97
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5132019, y: 0.4980228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b542026509eeb4499f0587f1ef3ef32
+      internalID: -1492313534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mk_a-002
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2298
+        width: 111
+        height: 162
+      alignment: 9
+      pivot: {x: 0.4769258, y: 0.5019757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e189a6403bdc8e340b3634d6f9956360
+      internalID: -714761326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mk_a-003
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2298
+        width: 79
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5607883, y: 0.5205219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fad8964222ff2746a229079e457dd74
+      internalID: 1397775250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_59
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 2299
+        width: 96
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ac26c71a9e1264bb548c1c9de5f1ce
+      internalID: 907859415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_61
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2298
+        width: 96
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa521486a92c41478873012cdbd9eac
+      internalID: 915420157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mk_a-004
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2298
+        width: 121
+        height: 157
+      alignment: 9
+      pivot: {x: 0.3888729, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e212833793d3f4291fb4f7868722bd
+      internalID: 940232679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_64
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 2298
+        width: 93
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a232b6d9c614910428f62cecda76c566
+      internalID: -1519818167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_65
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 2298
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5434ce6471ce96841afb2b9b5edcf108
+      internalID: -1995604266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_66
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 2299
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56732a4de9e5441419609ec0a474728c
+      internalID: 471413744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_68
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2089
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877f410f592597341ac6b15a4ff983df
+      internalID: 1799913116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_69
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2089
+        width: 124
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a413e04224d0704bbc46bdc99548b5a
+      internalID: -1988782005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_70
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2089
+        width: 115
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e4f1c4a45dd8441a25c2bf56c84d30
+      internalID: -824752744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_71
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2090
+        width: 122
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d291f00907a98d478411fc261bb42e0
+      internalID: -418484175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mk_b-001
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2089
+        width: 106
+        height: 159
+      alignment: 9
+      pivot: {x: 0.513855, y: 0.4722908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45683dd8e50e1ee4dacb0ff8adb0260c
+      internalID: -421473111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mk_b-002
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2089
+        width: 96
+        height: 156
+      alignment: 9
+      pivot: {x: 0.57954854, y: 0.5075308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16571747883450847a464659b7e7ecbe
+      internalID: -1526982475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mk_b-003
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 2089
+        width: 128
+        height: 173
+      alignment: 9
+      pivot: {x: 0.4793482, y: 0.5203738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a8385e00528444e9f4f914f5eba798
+      internalID: -623411605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_75
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 2089
+        width: 111
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4d4d0091fa2f64fbbd6c3aa1ecee45
+      internalID: -1413882947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_76
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 2089
+        width: 102
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e611021fa739b4291cde3fb5ad078a
+      internalID: -1830483490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mk_c-001
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 2089
+        width: 111
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4725859, y: 0.5118881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e832e31a012b546bd23a6979167d11
+      internalID: 226979402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mk_c-002
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 2089
+        width: 107
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5959826, y: 0.4753717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b639f2a0639db604a85c5a7b89deacaa
+      internalID: 239367899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mk_c-003
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 2089
+        width: 138
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5496145, y: 0.4614116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41518873434d0f34c8365c916d5c8655
+      internalID: 297196058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mk_c-004
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 2089
+        width: 124
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2167044cdfeae4c930396b8757e764
+      internalID: 1387049641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mk_c-005
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 2090
+        width: 99
+        height: 208
+      alignment: 9
+      pivot: {x: 0.6191086, y: 0.3975924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78287b6280fdab745b46aa67849bb673
+      internalID: 1179810386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mk_c-006
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 2089
+        width: 122
+        height: 164
+      alignment: 9
+      pivot: {x: 0.515589, y: 0.5092788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567f7bd233008c24790fd20d869abf43
+      internalID: -1278412751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mk_c-007
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 2089
+        width: 138
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5413447, y: 0.44527036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5345a8d3fab6a754dbd5dd8b0ce7dd71
+      internalID: -1292507585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_88
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1879
+        width: 86
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02134b90aa30b8b44bd6444d79257602
+      internalID: 784225833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_hit-003
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1879
+        width: 83
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16bc3650ee4b4b478dff63337a640e0
+      internalID: -1377162455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_hit-001
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1878
+        width: 83
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c89eab55d35684c8e52333f439d032
+      internalID: 56689207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_92
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1879
+        width: 76
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2836b885e1b7744cb97e71493d67a3d
+      internalID: -372784746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_93
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1879
+        width: 79
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd767c9e02b6da4a989cb99afa5f815
+      internalID: -976891046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_94
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1880
+        width: 73
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb65a9c89e12a46439a6ebca850ec0ac
+      internalID: -285946926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_hit-002
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1879
+        width: 109
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5696305, y: 0.5571289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624a9cf29531c684082737e3364f50f5
+      internalID: -1534274004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_97
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1879
+        width: 94
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd0a8712f3edbd40b4891dd29861afc
+      internalID: 866397922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_98
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1878
+        width: 91
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8df11bb304f874888c8e06692bcf3a
+      internalID: 1380843219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_99
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1878
+        width: 84
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a26f3b0f212b246875fd8c00cde3c1
+      internalID: 985485434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_101
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1879
+        width: 86
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077e6fd6c5907494a93e808c20b99175
+      internalID: -2047797204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_104
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1879
+        width: 85
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8597c0184d5d0d4e8537a4303042319
+      internalID: 739931640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_tired-001
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1671
+        width: 80
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5633be216ca3bc342bfd9dc073b02e7f
+      internalID: -1322264638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_tired-002
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1671
+        width: 76
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc24298d28b40e41b34f4428dfff208
+      internalID: -116624121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_113
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1671
+        width: 82
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948f1d64b33ceab48be23dbcecaeb92d
+      internalID: 930500728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_114
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1671
+        width: 80
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8517376b3e03f4ea5da5698e6aacb9
+      internalID: -1043498458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_115
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1671
+        width: 72
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490017afbbfa4be4b9906029fb87f649
+      internalID: 1178081463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_116
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1671
+        width: 77
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a12617589d372d4283bcfb227b4252c
+      internalID: 982837950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_117
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1670
+        width: 78
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20587b8c1d2aaf746bdd5fe168399122
+      internalID: 1477345059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_stand-005
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1671
+        width: 73
+        height: 161
+      alignment: 9
+      pivot: {x: 0.4898381, y: 0.2142251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4fad4bc546fe2408de6fae07ac92c2
+      internalID: -530279420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_fall-002
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1671
+        width: 158
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c5edc640526d04491f61d2d8b76319
+      internalID: 689388862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_stand-002
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1672
+        width: 133
+        height: 93
+      alignment: 9
+      pivot: {x: 0.3698272, y: 0.3594892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47311877bc780b4998074ef0a06ae8d
+      internalID: -53045447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_stand-003
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1671
+        width: 101
+        height: 116
+      alignment: 9
+      pivot: {x: 0.615041, y: 0.3316387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c2a2700be56a244af0a264bd27f2f2
+      internalID: 693049152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_stand-004
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1671
+        width: 103
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5145216, y: 0.2636613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a5cddd305a12946bd45d88a76bcb85
+      internalID: -1308113378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_fall-003
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1672
+        width: 168
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f3d01519474554d992ee19dd274eb5
+      internalID: -406286663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_125
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1671
+        width: 139
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a0745f8490fbf4fb17a7fba8a4a144
+      internalID: 1992312625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_126
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1671
+        width: 168
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b617ca50b176de4c817940998f1c9e0
+      internalID: 821108731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_stand-001
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1671
+        width: 168
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5176581, y: 0.5995228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ba309e0d978324a9de993e33e51cca
+      internalID: 643901716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_131
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1461
+        width: 90
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703af7d1741b87d409ace82c699226b5
+      internalID: 2067969754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_132
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1462
+        width: 110
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3906c7a5e39b81a49afce08ab1d6cd4e
+      internalID: -1101597577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_134
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1461
+        width: 152
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fead914de97a442bf9d6786c4a41a6
+      internalID: 1328279937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_135
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1462
+        width: 111
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db8e93d27bf3cd4faa9a538cddc24ee
+      internalID: -1623331138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_136
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1462
+        width: 92
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03453925cbb50ab41ab953576bc6ccb5
+      internalID: -2054632721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_137
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1463
+        width: 86
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e55b2d0c65ae3a45ba3fc051423de31
+      internalID: -742933138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_138
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1462
+        width: 104
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cbb3e75c5823e4195de195bb9c5cb1
+      internalID: 317633556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_139
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1462
+        width: 149
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243e7eab7d9077a49ae97463e7b44266
+      internalID: -1676018818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_140
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1461
+        width: 85
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c197d1124aef7244e92b80e571d2f207
+      internalID: -1987875543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_142
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1254
+        width: 111
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7184ef0823285a64786db13a986c0eb8
+      internalID: 2088785491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_144
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1253
+        width: 153
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d47ab433fb5e1a4aa16402f6d2fab55
+      internalID: 2118165820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_145
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1251
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f77fc86472469458fd735b99c3f259
+      internalID: 109173710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_146
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1252
+        width: 146
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650d617fccef68543a4a241f79c596b1
+      internalID: 2083943458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_147
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1252
+        width: 138
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865f293a705eaf8428566f514fd4e40e
+      internalID: 1048947833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_148
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1253
+        width: 136
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5b15b0557b0a149875ae2016aea1b6
+      internalID: 1671707768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_149
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1254
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe5b1b77ffb7e74c8e4c6ab904b2df6
+      internalID: -576033325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_150
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1253
+        width: 140
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654e7614867b9304f9c9ee9a37cbcbca
+      internalID: 570972254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_153
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1045
+        width: 110
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8fd2ebcebbdf641b7a39b145f6f634
+      internalID: 1012638576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_157
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1044
+        width: 154
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b7ea8a0703a4242831ed4abea217db
+      internalID: -1364353346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_158
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1045
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ea47e25639388429945c877fdfb28a
+      internalID: -88660681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_159
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1045
+        width: 138
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848075d8662a760499ac355773b9da4b
+      internalID: 908214164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_160
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1046
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857b47b192bfc61499fb0aa560029985
+      internalID: -1546364878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_161
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1045
+        width: 119
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44848316fac2b4640b3957222b400333
+      internalID: -13877423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_162
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1045
+        width: 143
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7481199a4d61df643834d9ab2a097aa6
+      internalID: 1498284066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_163
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1045
+        width: 139
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266bb08ead3230540b07a7664a2ec61b
+      internalID: 1242958196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_167
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 838
+        width: 100
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b0dd1369e7d954199f5200c67ca97f
+      internalID: 1716423480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_180
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 836
+        width: 66
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7883a7b9170364bad95cfbf9172c8b
+      internalID: 358620713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_181
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 836
+        width: 111
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a770f17f215084d8a483330b4f4108
+      internalID: -1403870480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_182
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 837
+        width: 119
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3158207d5084445b426fe988aaccfc
+      internalID: -336914826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_183
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 834
+        width: 120
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a82a58b8a4513c46bb4e2eec8db1483
+      internalID: 1988891143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_185
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 836
+        width: 75
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7f1cebb3a50a543b8ee2f581717589
+      internalID: 1742016312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_189
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 836
+        width: 103
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5929f73d756ea4640a0a0a35bed36b9c
+      internalID: 180637629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_191
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 836
+        width: 143
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9677b853cc4bfbf42a6836670c7bae84
+      internalID: -131752069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_192
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 835
+        width: 140
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbba1cc458d01954c926cfde5b9fc390
+      internalID: -1006615200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_193
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 624
+        width: 81
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62587a77dd32d824084104d2a8a7b86f
+      internalID: 442456993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_197
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 624
+        width: 98
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5742639f8694394b92e9c975328670e
+      internalID: 611378713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_198
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 624
+        width: 99
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2549f1d98d08dae45a4e39e630e4a442
+      internalID: 2142235296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_199
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 624
+        width: 115
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafad72edd0e34149b51f9d02507a2af
+      internalID: -686684213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_201
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 625
+        width: 109
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325830ef761f797438a55b944b9383f2
+      internalID: -1628164365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_202
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 624
+        width: 111
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83363e734626994688b91deef5b3384
+      internalID: 821957098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_203
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 626
+        width: 111
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c536217f5965234bb2e0b5313f04c02
+      internalID: -1001712588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_204
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 624
+        width: 110
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d435cb23e3b12584f99279274b90fffe
+      internalID: -1971277744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_205
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 625
+        width: 95
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a99fc5318390b4abb57adcfc2e11a0
+      internalID: -503506381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_206
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 626
+        width: 125
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0394d1159e175a42a7fd3699e9bcad6
+      internalID: 169366873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_207
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 626
+        width: 131
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bb42a1bfeabe94da73e9731b674db7
+      internalID: -167090925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_212
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 624
+        width: 156
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ff747aaafc9aa4f946c405eab851f7
+      internalID: 1954448492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_219
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 416
+        width: 138
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f75d8c123c4d94c9193bc227ed0f00
+      internalID: -570286718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_221
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 416
+        width: 135
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570908e7063eeaf47b660b65facac4b9
+      internalID: -1170346931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_222
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 416
+        width: 94
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c882d54f7d46543a20256e17bc1a37
+      internalID: -882134463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_224
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 416
+        width: 93
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245b6118a47470241bc962ef547f85bf
+      internalID: -419345112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_225
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 418
+        width: 131
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c9d75bd06721a498d6d0beceb007e0
+      internalID: 870324115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_226
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 104
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd83f743036f25468b757fef8c3426d
+      internalID: -1131780559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_227
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 416
+        width: 90
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1285769cab8cb694cbf932f88b0e625f
+      internalID: -547757933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_229
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 416
+        width: 94
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80439eed2c236ab4a9312da78cc99af1
+      internalID: 460520464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_230
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 416
+        width: 93
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772bab372d5a3e1478dd222e586db759
+      internalID: 1862817567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_231
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 416
+        width: 125
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede68445c92d6bd41891ca3d5f80e1c6
+      internalID: 180090370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_232
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 418
+        width: 160
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fcd0110505afc4fa527645e12ac5cf
+      internalID: 972170058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_233
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 418
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914187e2ad535ad4387bed548756d12a
+      internalID: -1829624280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_234
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 415
+        width: 106
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0c1f7a613771b4595f7e4b137d0d16
+      internalID: -723910831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_235
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 417
+        width: 102
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1321054652341f4a8ffbaea331b84f3
+      internalID: -1972217963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mw_f-002
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2926
+        width: 73
+        height: 157
+      alignment: 9
+      pivot: {x: 0.4258899, y: 0.5053011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bb8a15ae6f94749b58174aeaa36b84
+      internalID: 945276622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m_fall-001
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1670
+        width: 136
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5930427, y: 0.8073059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a69bd48357468f43ae8e4285d45621e
+      internalID: -1292324821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_17
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1254
+        width: 99
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71c196df393dc040ac2d9481f1c5ef9
+      internalID: 1842609479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Micky Rogers_18
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1045
+        width: 98
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf850efb5a93d3e4d8fefa6400d6f01e
+      internalID: -391422088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Micky Rogers_0: 1103891272
+      Micky Rogers_100: -34401162
+      Micky Rogers_101: -2047797204
+      Micky Rogers_102: 1117947761
+      Micky Rogers_103: -815016392
+      Micky Rogers_104: 739931640
+      Micky Rogers_105: -1643206720
+      Micky Rogers_106: -1776652402
+      Micky Rogers_107: 1404705494
+      Micky Rogers_108: -319855512
+      Micky Rogers_109: 734248667
+      Micky Rogers_112: 159506179
+      Micky Rogers_113: 930500728
+      Micky Rogers_114: -1043498458
+      Micky Rogers_115: 1178081463
+      Micky Rogers_116: 982837950
+      Micky Rogers_117: 1477345059
+      Micky Rogers_120: 865663603
+      Micky Rogers_125: 1992312625
+      Micky Rogers_126: 821108731
+      Micky Rogers_127: -799241319
+      Micky Rogers_129: 1065238891
+      Micky Rogers_130: 1295907653
+      Micky Rogers_131: 2067969754
+      Micky Rogers_132: -1101597577
+      Micky Rogers_133: 328177741
+      Micky Rogers_134: 1328279937
+      Micky Rogers_135: -1623331138
+      Micky Rogers_136: -2054632721
+      Micky Rogers_137: -742933138
+      Micky Rogers_138: 317633556
+      Micky Rogers_139: -1676018818
+      Micky Rogers_140: -1987875543
+      Micky Rogers_141: -1034872037
+      Micky Rogers_142: 2088785491
+      Micky Rogers_143: -549185808
+      Micky Rogers_144: 2118165820
+      Micky Rogers_145: 109173710
+      Micky Rogers_146: 2083943458
+      Micky Rogers_147: 1048947833
+      Micky Rogers_148: 1671707768
+      Micky Rogers_149: -576033325
+      Micky Rogers_150: 570972254
+      Micky Rogers_151: 1745508264
+      Micky Rogers_152: 1331192625
+      Micky Rogers_153: 1012638576
+      Micky Rogers_154: -924381081
+      Micky Rogers_155: -1180968460
+      Micky Rogers_156: -1920992853
+      Micky Rogers_157: -1364353346
+      Micky Rogers_158: -88660681
+      Micky Rogers_159: 908214164
+      Micky Rogers_160: -1546364878
+      Micky Rogers_161: -13877423
+      Micky Rogers_162: 1498284066
+      Micky Rogers_163: 1242958196
+      Micky Rogers_164: 1801203893
+      Micky Rogers_165: -389211846
+      Micky Rogers_166: 1778941112
+      Micky Rogers_167: 1716423480
+      Micky Rogers_168: 1177242865
+      Micky Rogers_169: -303493295
+      Micky Rogers_17: 1842609479
+      Micky Rogers_170: -109127192
+      Micky Rogers_171: -2051322090
+      Micky Rogers_172: -990983232
+      Micky Rogers_173: 1561630286
+      Micky Rogers_174: -292757494
+      Micky Rogers_175: -1864742227
+      Micky Rogers_176: -1557955481
+      Micky Rogers_177: 392781220
+      Micky Rogers_178: -1922515141
+      Micky Rogers_179: -1111695255
+      Micky Rogers_18: -391422088
+      Micky Rogers_180: 358620713
+      Micky Rogers_181: -1403870480
+      Micky Rogers_182: -336914826
+      Micky Rogers_183: 1988891143
+      Micky Rogers_184: 159688596
+      Micky Rogers_185: 1742016312
+      Micky Rogers_186: -1492968473
+      Micky Rogers_187: -134044104
+      Micky Rogers_188: 1944513331
+      Micky Rogers_189: 180637629
+      Micky Rogers_19: 1327125808
+      Micky Rogers_190: -1245421446
+      Micky Rogers_191: -131752069
+      Micky Rogers_192: -1006615200
+      Micky Rogers_193: 442456993
+      Micky Rogers_194: 2028101222
+      Micky Rogers_195: 942852318
+      Micky Rogers_196: -1195271858
+      Micky Rogers_197: 611378713
+      Micky Rogers_198: 2142235296
+      Micky Rogers_199: -686684213
+      Micky Rogers_20: -71305264
+      Micky Rogers_200: 1038222066
+      Micky Rogers_201: -1628164365
+      Micky Rogers_202: 821957098
+      Micky Rogers_203: -1001712588
+      Micky Rogers_204: -1971277744
+      Micky Rogers_205: -503506381
+      Micky Rogers_206: 169366873
+      Micky Rogers_207: -167090925
+      Micky Rogers_208: -63648164
+      Micky Rogers_209: 366271522
+      Micky Rogers_21: 796724573
+      Micky Rogers_210: -1069736786
+      Micky Rogers_211: -1715295105
+      Micky Rogers_212: 1954448492
+      Micky Rogers_213: -1036158115
+      Micky Rogers_214: -669329070
+      Micky Rogers_215: -906105719
+      Micky Rogers_216: 1888058347
+      Micky Rogers_217: -1530960924
+      Micky Rogers_218: 9336437
+      Micky Rogers_219: -570286718
+      Micky Rogers_22: 2076104604
+      Micky Rogers_220: -832378007
+      Micky Rogers_221: -1170346931
+      Micky Rogers_222: -882134463
+      Micky Rogers_223: -911836310
+      Micky Rogers_224: -419345112
+      Micky Rogers_225: 870324115
+      Micky Rogers_226: -1131780559
+      Micky Rogers_227: -547757933
+      Micky Rogers_228: -881971168
+      Micky Rogers_229: 460520464
+      Micky Rogers_23: 133006155
+      Micky Rogers_230: 1862817567
+      Micky Rogers_231: 180090370
+      Micky Rogers_232: 972170058
+      Micky Rogers_233: -1829624280
+      Micky Rogers_234: -723910831
+      Micky Rogers_235: -1972217963
+      Micky Rogers_236: -952131885
+      Micky Rogers_237: -721808603
+      Micky Rogers_238: 1558893997
+      Micky Rogers_239: -1260611079
+      Micky Rogers_24: -1925884728
+      Micky Rogers_240: -172145940
+      Micky Rogers_241: -978918843
+      Micky Rogers_242: 990539367
+      Micky Rogers_243: 828488559
+      Micky Rogers_244: 319678665
+      Micky Rogers_245: 1668388820
+      Micky Rogers_246: 264730866
+      Micky Rogers_25: 1881621594
+      Micky Rogers_26: 1235606179
+      Micky Rogers_30: -195959875
+      Micky Rogers_31: -1849542405
+      Micky Rogers_32: -1210046355
+      Micky Rogers_33: 608017669
+      Micky Rogers_34: -334097106
+      Micky Rogers_35: -814462996
+      Micky Rogers_36: -1823327358
+      Micky Rogers_38: -2016945769
+      Micky Rogers_39: 1948616401
+      Micky Rogers_40: 1148351499
+      Micky Rogers_54: 12939398
+      Micky Rogers_58: 1760585620
+      Micky Rogers_59: 907859415
+      Micky Rogers_60: -2086037121
+      Micky Rogers_61: 915420157
+      Micky Rogers_63: -1375111315
+      Micky Rogers_64: -1519818167
+      Micky Rogers_65: -1995604266
+      Micky Rogers_66: 471413744
+      Micky Rogers_67: -1405264065
+      Micky Rogers_68: 1799913116
+      Micky Rogers_69: -1988782005
+      Micky Rogers_70: -824752744
+      Micky Rogers_71: -418484175
+      Micky Rogers_75: -1413882947
+      Micky Rogers_76: -1830483490
+      Micky Rogers_77: 396387710
+      Micky Rogers_85: 1830284318
+      Micky Rogers_86: -1417878068
+      Micky Rogers_87: 543340610
+      Micky Rogers_88: 784225833
+      Micky Rogers_90: 243385408
+      Micky Rogers_92: -372784746
+      Micky Rogers_93: -976891046
+      Micky Rogers_94: -285946926
+      Micky Rogers_95: -667194261
+      Micky Rogers_97: 866397922
+      Micky Rogers_98: 1380843219
+      Micky Rogers_99: 985485434
+      m000: 564885279
+      m001: -665971324
+      m002: -1458563325
+      m003: -1373716088
+      m004: -1221689969
+      m005: 283489903
+      m006: -1363576309
+      m007: -1554628138
+      m_fall-001: -1292324821
+      m_fall-002: 689388862
+      m_fall-003: -406286663
+      m_hit-001: 56689207
+      m_hit-002: -1534274004
+      m_hit-003: -1377162455
+      m_jp_001: -490968646
+      m_jp_002: 452740549
+      m_jp_003: 1567706441
+      m_jp_004: -801710720
+      m_stand-001: 643901716
+      m_stand-002: -53045447
+      m_stand-003: 693049152
+      m_stand-004: -1308113378
+      m_stand-005: -530279420
+      m_tired-001: -1322264638
+      m_tired-002: -116624121
+      mk_a-001: -1492313534
+      mk_a-002: -714761326
+      mk_a-003: 1397775250
+      mk_a-004: 940232679
+      mk_b-001: -421473111
+      mk_b-002: -1526982475
+      mk_b-003: -623411605
+      mk_c-001: 226979402
+      mk_c-002: 239367899
+      mk_c-003: 297196058
+      mk_c-004: 1387049641
+      mk_c-005: 1179810386
+      mk_c-006: -1278412751
+      mk_c-007: -1292507585
+      mp_a-001: 75429301
+      mp_a-002: 1810194005
+      mp_a-003: -2005897978
+      mp_b-001: -1116849052
+      mp_b-002: -768844347
+      mp_b-003: 668517365
+      mp_b-004: -809196944
+      mp_b-005: 955901635
+      mp_b-006: 1242306955
+      mp_c-001: -6257206
+      mp_c-002: -969348930
+      mp_c-003: 1623305377
+      mp_c-004: 1075688985
+      mw_b-001: -805711691
+      mw_b-002: 1818421396
+      mw_b-003: -550801269
+      mw_b-004: 2037851548
+      mw_f-001: -744006204
+      mw_f-002: 945276622
+      mw_f-003: -1631972953
+      mw_f-004: 30925346
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
